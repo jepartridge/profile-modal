@@ -1,6 +1,6 @@
 Modal Business Card
 =============
-This is a structural build using html and css of the based on a design from Dribbble.
+This is a structural build using html and css based on a design from Dribbble.
 
 [Dribbble Shot](https://dribbble.com/shots/1646732-Simple-Profile-eBusiness-Card?list=buckets&offset=1)
 
