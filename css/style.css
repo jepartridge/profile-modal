@@ -1,0 +1,125 @@
+body {
+	background-image: url(../img/mountain-bg-03-2560px.png);
+	background-size: cover;
+	background-color: #5C6F8D;
+	font-family: "Open Sans", sans serif;
+	text-align: center;
+	color: #81817F;
+	background-repeat: no-repeat;
+}
+
+main {
+	background: rgba(255,255,255,0.3);
+	padding: 18px;
+	border-radius: 8px;
+	display: inline-block;
+	margin: 100px auto;
+}
+
+.card {
+	background: #E9EDEC;
+	width: 230px;
+}
+
+.banner {
+	background: none no-repeat #ccc;
+	height: 90px;
+	width: auto;
+	overflow: hidden;
+	background-size: cover;
+	background-position: center center;
+	border-bottom: solid 1px #e0e0e0;
+}
+
+.avatar {
+	background: none no-repeat;
+	height: 80px;
+	width: 80px;
+	border-radius: 50%;
+	background-size: cover;
+	background-position: center center;
+	margin: -45px auto 0;
+	border: 5px solid #FFF;
+	box-shadow: 0 0 1px rgba(0,0,0,0.3);
+}
+
+h1 {
+	font-size: 18px;
+	color: #3A444A;
+	letter-spacing: -1px;
+	margin: 4px;
+}
+
+h2 {
+	font-size: 13px;
+	line-height: 20px;
+	margin: 4px auto 15px;
+	font-weight: normal;
+}
+
+hr {
+	width: 22%;
+	height: 0;
+	border: none;
+	border-top: solid 2px #81817F;
+
+}
+
+p {
+	font-size: 11px;
+	padding: 1px 15px;
+	font-weight: 300;
+
+}
+
+ul {
+	padding: 2px 15px 10px;
+	margin: 0;
+	list-style-type: none;
+}
+
+li {
+	display: inline-block;
+}
+
+li a {
+	height: 0;
+	overflow: hidden;
+	padding-top: 26px;
+
+
+	width: 26px;
+	display: block;
+	border: 1px solid #B2BBBF;
+	border-radius: 50%;
+	background-color: #f2f2f2;
+	margin: 0 3px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: 12px;
+}
+
+a:hover {
+	box-shadow: 0 0 3px #4c7ecf;
+}
+
+.facebook a {
+	background-image: url(../img/facebook.png);
+}
+
+.twitter a {
+	background-image: url(../img/twitter.png);
+}
+
+.dribbble a {
+	background-image: url(../img/dribbble.png);
+}
+
+.behance a {
+	background-image: url(../img/behance.png);
+}
+
+
+
+
+
